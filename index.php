@@ -105,7 +105,6 @@
 	</div>
 </section>
 
-<!--
 <section class="project project_subservice">
 	<div class="container">
 		<div class="row">
@@ -144,22 +143,19 @@
 		</div>
 	</div>
 </section>
--->
 
-<section class="team">
+<section class="who">
 	<div class="container">
 		<div class="row">
-			<div class="row">
-				<div class="span6">
-					<h2>The rock, the balloon and the wind.</h2>
-					<p class="lead">A tale of friends, talents and shortcomings.</p>
-					<div class="row">
-						<div class="span3">
-							<p>Seb, Ben and Andrew have known each other for a while now. Having met working for <a href="#">Squareweave</a>,</p>
-						</div>
-						<div class="span3">
-							<p>Yolo</p>
-						</div>
+			<div class="span6">
+				<h2>The rock, the balloon and the wind.</h2>
+				<p class="lead">A tale of friends, talents and shortcomings.</p>
+				<div class="row">
+					<div class="span3">
+						<p>Seb, Ben and Andrew have known each other for a while now. Having met working for Squareweave, they began to realise how handsome Andrew actually was and went off to start the biz.</p>
+					</div>
+					<div class="span3">
+						<p>Since then, they have been yolo-ing without giving a fuck day and night. They're especially known for being able to produce copious amounts of swag juice.</p>
 					</div>
 				</div>
 			</div>
